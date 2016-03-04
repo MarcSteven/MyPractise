@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "7edd2c6fa70220e3b5fd99bd9341e235"
+build_time: [510379977, 132190000]
+inputs:
+  "/Users/zhaoxinqiang/Desktop/MyPractise/MyPractise/ViewController.swift": [510379136, 0]
+  "/Users/zhaoxinqiang/Desktop/MyPractise/MyPractise/AppDelegate.swift": [510379976, 0]
+  "/Users/zhaoxinqiang/Desktop/MyPractise/MyPractise/TableView.swift": [510379976, 0]
